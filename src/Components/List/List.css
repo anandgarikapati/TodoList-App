@@ -1,0 +1,16 @@
+.items {
+    background-color: rgb(78, 204, 141);
+    color: rgb(15, 12, 12);
+    padding: 18px;
+    border-radius: 5PX;
+    font-size: large;
+}
+.btn {
+    position: relative;
+    float: right;
+    background-color: rgb(209, 48, 19);
+    color: white;
+    height: 30PX;
+    border-radius: 3PX;
+    
+}

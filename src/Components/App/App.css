@@ -1,0 +1,27 @@
+.formcontainer {
+  background-color: rgb(53, 47, 53);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* width: 500px; */
+  /* box-sizing: border-box; */
+
+}
+
+input {
+  margin-top: 25px;
+  height: 28px;
+  outline: none;
+  border: none;
+  
+}
+
+
+input[type="submit"] {
+  background-color: green;
+  color: white;
+  height: 30px;
+  width: 60px;
+  font-size: larger;
+  border-radius: 3px;
+}
